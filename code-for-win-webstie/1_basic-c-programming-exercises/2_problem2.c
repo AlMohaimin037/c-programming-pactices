@@ -8,7 +8,7 @@ int main()
 {
     int num1, num2, sum;
 
-    /**
+    /*
      * Input two numbers from user
      */
     printf("Enter any two numbers : ");

@@ -6,7 +6,7 @@
 
 int main()
 {
-    /**
+    /*
      * Declare all primitive and derived types
      */
     char charVal;
@@ -28,7 +28,7 @@ int main()
     double doubleVal;
     long double longDoubleVal;
 
-    /**
+    /*
      * Read input in each type
      */
 
@@ -73,7 +73,7 @@ int main()
     printf("Enter a long double value: ");
     scanf("%Lf", &longDoubleVal);
 
-    /**
+    /*
      * Print the value of all variable
      */
     printf("\nYou entered character: '%c' \n", charVal);

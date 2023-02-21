@@ -8,7 +8,7 @@ int main()
 {
     int num1, num2, sum;
 
-    /**
+    /*
      * Read two numbers from user
      */
     printf("Enter first number: ");

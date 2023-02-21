@@ -11,13 +11,13 @@ int main()
     int sum, sub, mult, mod;
     float div;
 
-    /**
+    /*
      * Input two numbers from user
      */
     printf("Enter any two numbers: ");
     scanf("%d%d", &num1, &num2);
 
-    /**
+    /*
      * Perform all arithmetic operations
      */
     sum = num1 + num2;
@@ -26,7 +26,7 @@ int main()
     div = (float)num1 / num2;
     mod = num1 % num2;
 
-    /**
+    /*
      * Print result of all arithmetic operations
      */
     printf("SUM = %d\n", sum);
