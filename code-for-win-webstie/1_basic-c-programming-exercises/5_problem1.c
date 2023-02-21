@@ -8,7 +8,7 @@ int main()
 {
     float length, width, area;
 
-    /**
+    /*
      * Input length and width of rectangle
      */
     printf("Enter length of the rectangle: ");
