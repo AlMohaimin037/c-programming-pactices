@@ -13,7 +13,7 @@ int main()
     scanf("%d%d", &num1, &num2);
 
     /* Find minimum between two numbers */
-    min = (num1 > num2) ? num1 : num2;
+    min = (num1 < num2) ? num1 : num2;
 
     for(i=1; i<=min; i++)
     {
